@@ -1,3 +1,5 @@
+import 'virtual:uno.css';
+
 import { createPinia } from 'pinia';
 import { createApp } from 'vue';
 
